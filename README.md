@@ -6,7 +6,8 @@ Features:
 - Also features a less responsive but higher resolution and more compact AnalogTouch class (only works on 10 bit analog input that can also be set up as digital I/O)
 - Both Classes are minimalistic, and have the same methods to make it easy to use, but they different defaults, and work differently under the hood.
 - They both provide boolean, and byte readings, both have calibrate, and hysteresis methods, to make sure all the readings are accurate and stable.
-Note that the value given by DigitalTouch::Read() method rises when touched, while the value given by the AnalogTouch::Read() method falls when touched!
+
+Note that: The value given by DigitalTouch::Read() method rises when touched, while the value given by the AnalogTouch::Read() method falls when touched!
 
 Hardware requirements:
 - Arduino running at 16MHz (Any type should do. 16MHz is important because of timing. 8MHz will work but require different settings. Mine is pro-mini 5V, 16MHz version.)

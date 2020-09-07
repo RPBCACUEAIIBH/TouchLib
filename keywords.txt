@@ -1,0 +1,12 @@
+### Constructor ###
+AnalogTouch	KEYWORD1
+DigitalTouch	KEYWORD1
+
+### Control Methods ###
+SetCalibLimit	KEYWORD2
+SetThreshold	KEYWORD2
+
+### Operation ###
+Calibrate	KEYWORD2
+Read	KEYWORD2
+ReadState	KEYWORD2

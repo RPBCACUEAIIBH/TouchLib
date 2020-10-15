@@ -1,5 +1,5 @@
 /*
-The DigitalTouch class works by reseting the pin(pinMode(Pin, OUTPUT), which also sets the pin low, and pinMode(Pin, INPUT) right after that) then counting while the 1M pull up resistor pulls it high.
+The DigitalTouch class works by reseting the pin(pinMode(Pin, OUTPUT), which also sets the pin low, and pinMode(Pin, INPUT) right after that) then counting while the 330K pull up resistor pulls it high.
 
 
 Advantages:

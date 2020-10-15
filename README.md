@@ -24,6 +24,10 @@ Skill requirements:
 - You need to have basic arduino skills. (Soldering, understanding arduino code, installing and using libraries, etc. This is a library of source code and CAD files with an example sketch not a tutorial, so I won't explain everything here.)
 
 
+Update v1.1.0:
+- Added ESP8266 example sketch with settings for 12F generic module. (It requires 330K rather then 1M resistor!)
+
+
 Instructions:
 1. Add library to your arduino IDE 
  - Open terminal in your Arduino/libraries directory, and run "git clone https://github.com/RPBCACUEAIIBH/TouchLib" and restart the IDE.

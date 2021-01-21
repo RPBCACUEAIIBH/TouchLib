@@ -1,3 +1,7 @@
+!!! Deprecated !!!
+This library is now part of a collective library containing all my current arduino libraries including new ones. This one will not be updated and will be deleted in some time...
+Available at: https://github.com/RPBCACUEAIIBH/HexaLib-Arduino
+
 The Touchlib library contains 2 classes that work differently, one reads the voltage level on an analog pin, the other counts till the pin goes high.
 
 
